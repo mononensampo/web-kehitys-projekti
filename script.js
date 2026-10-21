@@ -15,7 +15,7 @@ const defaultTasks = [
 /* ---------- localStorage ---------- */
 
 // Hakee rutiinit selaimen muistista.
-// Jos mitään ei ole tallennettu (tai tallenne on rikki), palautetaan oletusrutiinit.
+// Jos mitään ei ole tallennettu, palautetaan oletusrutiinit.
 function loadTasks() {
   try {
     const saved = JSON.parse(localStorage.getItem(STORAGE_KEY));
@@ -60,9 +60,9 @@ function saveFilter() {
 /* ---------- Tila ja elementit ---------- */
 
 let tasks = loadTasks();    // Kaikki rutiinit
-let filter = loadFilter();  // Valittu suodatin: "all", "active" tai "done"
+let filter = loadFilter();  // Valittu suodatin
 
-const list = document.getElementById("list");        // Rutiinilista (ul)
+const list = document.getElementById("list");        // Rutiinilista
 const form = document.getElementById("add-form");    // Lisäyslomake
 const input = document.getElementById("new-task");   // Tekstikenttä
 const count = document.getElementById("count");      // Laskuri "x / y tehty"
@@ -113,7 +113,7 @@ function render() {
     const del = document.createElement("button");
     del.type = "button";
     del.className = "del";
-    del.setAttribute("aria-label", "Poista rutiini: " + t.text); // Ruudunlukijalle
+    del.setAttribute("aria-label", "Poista rutiini: " + t.text);
     del.textContent = "×";
     del.addEventListener("click", () => {
       tasks = tasks.filter(x => x.id !== t.id); // Poistetaan id:n perusteella
@@ -125,11 +125,10 @@ function render() {
     list.appendChild(li);
   });
 
-  // Päivitetään laskuri (tyhjä, jos rutiineja ei ole lainkaan)
+  // Päivitetään laskuri
   const done = tasks.filter(t => t.done).length;
   count.textContent = tasks.length ? done + " / " + tasks.length + " tehty" : "";
 
-  // Merkitään aktiivinen suodatinpainike (CSS käyttää aria-pressed-tilaa)
   filterButtons.forEach(b =>
     b.setAttribute("aria-pressed", b.dataset.filter === filter)
   );
@@ -137,12 +136,12 @@ function render() {
 
 /* ---------- Tapahtumat ---------- */
 
-// Uuden rutiinin lisäys lomakkeesta
+// Uuden rutiinin lisäys
 form.addEventListener("submit", e => {
   e.preventDefault();                 // Estetään sivun uudelleenlataus
   const text = input.value.trim();    // Poistetaan ylimääräiset välilyönnit
   if (!text) return;                  // Tyhjää ei lisätä
-  tasks.push({ id: Date.now(), text, done: false }); // Aikaleima toimii uniikkina id:nä
+  tasks.push({ id: Date.now(), text, done: false }); 
   input.value = "";
   saveTasks();
   render();
