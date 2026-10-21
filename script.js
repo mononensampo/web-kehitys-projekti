@@ -1,7 +1,3 @@
-/* ==========================================================================
-   Aamurutiinit – script.js
-   Rutiinilista, joka tallentuu selaimen localStorageen.
-   ========================================================================== */
 
 /* ---------- Vakiot ---------- */
 
@@ -11,9 +7,9 @@ const FILTERS = ["all", "active", "done"];     // Sallitut suodatinarvot
 
 // Rutiinit, jotka näytetään, kun mitään ei ole vielä tallennettu
 const defaultTasks = [
-  { id: 1, text: "Hampaiden harjaus", done: false },
-  { id: 2, text: "Syö aamupala", done: false },
-  { id: 3, text: "Petaa sänky", done: false }
+  { id: 1, text: "Hampaiden harjaus 🦷", done: false },
+  { id: 2, text: "Syö aamupala 🥣", done: false },
+  { id: 3, text: "Petaa sänky 🛏️", done: false }
 ];
 
 /* ---------- localStorage ---------- */

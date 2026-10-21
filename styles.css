@@ -204,12 +204,3 @@ input[type="text"]:focus {
 .del:hover {
   color: #d64545;
 }
-
-/* ---------- Esteettömyys ---------- */
-/* Poistaa animaatiot käyttäjiltä, jotka ovat pyytäneet vähemmän liikettä */
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation: none !important;
-    transition: none !important;
-  }
-}
