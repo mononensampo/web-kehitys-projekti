@@ -35,12 +35,9 @@ Tarkoitus on toimia sovelluksena joka auttaa hajamielisiä nuoria valmistautumaa
 
 ## Teknologiat
 
-Kuvaile, mitä teknologioita käytit ja mikä niiden rooli oli projektissasi.
-
-- HTML – sivun rakenne 
-- CSS – ulkoasu ja asettelu
-- JavaScript – toiminnallisuus, DOM-skriptaus ja lomakkeiden validointi
-- localStorage – tietojen tallentaminen selaimeen, jos käytit sitä
+- HTML – sivun rakenne: lomake, suodatinpainikkeet, rutiinilista, laskuri joka laskee rutiinien määrät
+- CSS – ulkoasu ja asettelu: tekoälyn tekemä geneerinen tyyliasettelu
+- JavaScript: tietojen tallentaminen localStorageen, sivun interaktiivisuus
 
 
 ## Kuvakaappaukset
