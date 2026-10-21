@@ -1,6 +1,6 @@
 # Projektin nimi
 
-**Tekijä(t):** Kirjoita tähän oma nimesi / tekijöiden nimet
+**Tekijä(t):** Mononen Sampo ja Tuunanen Joni
 
 ## Projektisuunnitelma
 
@@ -22,7 +22,7 @@ Lisää tähän kuva käsin piirtämästäsi tai digitaalisesti tehdystä sovell
 
 Esimerkki kuvan lisäämisestä:
 
-![Rautalankamalli](img/wireframe.png)
+![Rautalankamalli](images/IMG_6970%20(1).jpeg)
 
 ## Verkkolinkit
 
