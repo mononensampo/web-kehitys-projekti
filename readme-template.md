@@ -45,34 +45,15 @@ Kuvaile, mitä teknologioita käytit ja mikä niiden rooli oli projektissasi.
 - JavaScript – toiminnallisuus, DOM-skriptaus ja lomakkeiden validointi
 - localStorage – tietojen tallentaminen selaimeen, jos käytit sitä
 
-## Sovelluksen käyttö
-
-Kirjoita lyhyet käyttöohjeet sovellukselle.
-
-1. Avaa julkaistu sovellus yllä olevasta linkistä.
-2. Täytä lomakkeen kentät.
-3. Lisää, muokkaa, poista tai merkitse kohteita tehdyiksi.
-4. Päivitä sivu ja tarkista, säilyvätkö tiedot selaimessa, jos käytit localStoragea.
-
-## Sovelluksen käynnistäminen paikallisesti
-
-1. Kloonaa tai lataa tämä repositorio omalle koneellesi.
-2. Avaa projektikansio.
-3. Avaa `index.html` selaimessa.
 
 ## Kuvakaappaukset
 
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksestasi.
-
-Esimerkki kuvan lisäämisestä:
 
 ![Kuvakaappaus sovelluksesta](images/aamutsekki.png)
 
 ## Tunnetut virheet / puutteet
 
-Kerro, jos sovelluksessa on tunnettuja virheitä, puuttuvia toimintoja tai muita rajoituksia.
-
-Jos tunnettuja virheitä ei ole, kirjoita: **Ei tunnettuja virheitä.**
+**Ei tunnettuja virheitä.**
 
 ## Työn jakautuminen
 
