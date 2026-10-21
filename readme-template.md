@@ -6,15 +6,15 @@
 
 ### Projektin idea
 
-Kuvaile lyhyesti, mitä sovelluksesi tekee ja kenelle se on tarkoitettu.
+Projekti on yksiknkertainen To Do-lista asiosita jotka on hyvä muistaa tehdä ennen kuin lähtee kotoota vaikkapa kouluun.
 
 ### Suunnitellut toiminnot
 
 Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
-- Toiminto 1
-- Toiminto 2
-- Toiminto 3
+- Ruksittaa rutiinit tehdyksi
+- Tehtävät pystyy suodattamaan tehdyt ja tekemättömät tyylisesti
+- Voi lisätä uuden rutiinit haluttaessa
 
 ### Rautalankamalli / luonnos
 
@@ -34,13 +34,13 @@ Esimerkki kuvan lisäämisestä:
 
 **[Projektin nimi]** on verkkosovellus, joka ...
 
-Kuvaile lyhyesti sovelluksen tarkoitus ja tärkeimmät toiminnot.
+Tarkoitus on toimia sovelluksena joka auttaa hajamielisiä nuoria valmistautumaan helpoilla teoilla joilla saa hyvän alun päivälle. Pienet rakentavat teot luovat hyvä pohjan onnistunneelle päivälle. Täkeimpiä toimintoja ovat mahdollisuus ruksittaa tehdyt teot jotta voi mitata omaa edistymistä ja luoda itselleen onnistumisen tunteen. Vähän niin kuin pelien eteneminen. Samalla voi tarkistaa mitä on vielä tekemättä ennen kuin on niin sanotusti valmis kohtaamaan päivän. 
 
 ## Teknologiat
 
 Kuvaile, mitä teknologioita käytit ja mikä niiden rooli oli projektissasi.
 
-- HTML – sivun rakenne
+- HTML – sivun rakenne 
 - CSS – ulkoasu ja asettelu
 - JavaScript – toiminnallisuus, DOM-skriptaus ja lomakkeiden validointi
 - localStorage – tietojen tallentaminen selaimeen, jos käytit sitä
