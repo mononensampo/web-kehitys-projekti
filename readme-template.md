@@ -57,12 +57,7 @@ Kuvaile, mitä teknologioita käytit ja mikä niiden rooli oli projektissasi.
 
 ## Työn jakautuminen
 
-*Täytä tämä osio vain, jos teit projektin parityönä.*
-
-Kuvaile, miten työ jakautui ja miten yhteistyö sujui.
-
-- Tekijä 1: ...
-- Tekijä 2: ...
+Yhteistyö sujui moitteettomasti ja jakautui tasapuolisesti. 
 
 ## Oma arvio ja oppimisen reflektointi
 
@@ -77,14 +72,7 @@ Pohdi työtäsi ja oppimisprosessiasi.
 
 ## Lähteet ja kiitokset
 
-Listaa kaikki projektissa käyttämäsi lähteet, tutoriaalit, kuvat ja koodiesimerkit.
-
-Jos käytit ChatGPT:tä, GitHub Copilotia tai muuta tekoälytyökalua, mainitse se tässä ja kerro lyhyesti, miten se tuki työskentelyäsi.
-
-- [Lähteen tai tutoriaalin nimi](https://example.com/)
-- [Kuvalähde](https://example.com/)
-- Käytetty tekoälytyökalu: ...
-  - Miten työkalua käytettiin: ...
+Työssä käytettiin Claude tekoälyä CSS:n tekemisessä sekä JavaScriptin hiomisessa ja tarkistamisessa. 
 
   ## Lisenssi
 
