@@ -11,23 +11,23 @@
   <main class="container">
     <h1>Aamutsekki ☀️</h1>
 
-    <!-- Lomake uuden rutiinin lisäämiseen (script.js kuuntelee "submit"-tapahtumaa) -->
+    // Lomake 
     <form id="add-form">
       <input id="new-task" type="text" placeholder="Lisää uusi rutiini" aria-label="Uusi rutiini" autocomplete="off">
       <button type="submit" class="btn">Lisää</button>
     </form>
 
-    <!-- Suodatinpainikkeet; data-filter kertoo skriptille, mitä näytetään -->
+    // Suodatinpainikkeet
     <div class="filters">
       <button type="button" data-filter="all">Kaikki</button>
       <button type="button" data-filter="active">Aktiiviset</button>
       <button type="button" data-filter="done">Tehty</button>
     </div>
 
-    <!-- Rutiinilista: script.js rakentaa tähän li-elementit -->
+    // Rutiinilista
     <ul id="list"></ul>
 
-    <!-- Laskuri "x / y tehty" (script.js täyttää) -->
+    // Laskuri
     <p id="count"></p>
   </main>
 </body>

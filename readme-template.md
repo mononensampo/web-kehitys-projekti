@@ -53,18 +53,7 @@ Tarkoitus on toimia sovelluksena joka auttaa hajamielisiä nuoria valmistautumaa
 
 Yhteistyö sujui moitteettomasti ja jakautui tasapuolisesti. 
 
-## Oma arvio ja oppimisen reflektointi
-
-Pohdi työtäsi ja oppimisprosessiasi.
-
-- Missä onnistuin?
-- Mikä oli haastavaa?
-- Mitä parantaisin, jos aikaa olisi enemmän?
-- Mitä opin HTML:stä, CSS:stä, JavaScriptistä ja DOM-skriptauksesta?
-- Mikä jäi epäselväksi tai mistä haluaisin oppia lisää?
-- Oma arvio projektista: **xx/10 pistettä**
-
-## Lähteet ja kiitokset
+## Lähteet
 
 Työssä käytettiin Claude tekoälyä CSS:n tekemisessä sekä JavaScriptin hiomisessa ja tarkistamisessa. 
 
