@@ -26,10 +26,10 @@ Esimerkki kuvan lisäämisestä:
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
-- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/yourusername/your-repository)
-- **Projektin videoesittely (Sampo):** [Lisää tähän videon osoite](https://example.com/)
-- **Projektin videoesittely (Joni):** [Lisää tähän videon osoite](https://example.com/)
+- **Julkaistu sovellus:** [GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
+- **GitHub-repositorio:** [Repositorion osoite](https://github.com/yourusername/your-repository)
+- **Projektin videoesittely (Sampo):** [Video](https://example.com/)
+- **Projektin videoesittely (Joni):** [Video](https://example.com/)
 
 ## Tietoja sovelluksesta
 
