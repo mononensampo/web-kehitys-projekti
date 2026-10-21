@@ -33,7 +33,6 @@ Esimerkki kuvan lisäämisestä:
 
 ## Tietoja sovelluksesta
 
-**[Aamutsekki]** on verkkosovellus, joka ...
 
 Tarkoitus on toimia sovelluksena joka auttaa hajamielisiä nuoria valmistautumaan helpoilla teoilla joilla saa hyvän alun päivälle. Pienet rakentavat teot luovat hyvä pohjan onnistunneelle päivälle. Täkeimpiä toimintoja ovat mahdollisuus ruksittaa tehdyt teot jotta voi mitata omaa edistymistä ja luoda itselleen onnistumisen tunteen. Vähän niin kuin pelien eteneminen. Samalla voi tarkistaa mitä on vielä tekemättä ennen kuin on niin sanotusti valmis kohtaamaan päivän. 
 
