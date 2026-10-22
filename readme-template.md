@@ -23,9 +23,9 @@ Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
-- **GitHub-repositorio:** [Repositorion osoite](https://github.com/yourusername/your-repository)
-- **Projektin videoesittely (Sampo):** [Video](https://example.com/)
+- **Julkaistu sovellus:** [GitHub Pages -osoite](https://mononensampo.github.io/web-kehitys-projekti/)
+- **GitHub-repositorio:** [Repositorion osoite](https://github.com/mononensampo/web-kehitys-projekti/tree/main)
+- **Projektin videoesittely (Sampo):** [Video](https://www.youtube.com/watch?v=o9MDs8Vwbcw)
 - **Projektin videoesittely (Joni):** [Video](https://example.com/)
 
 ## Tietoja sovelluksesta
